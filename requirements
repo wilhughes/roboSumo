@@ -1,0 +1,14 @@
+ROBO SUMO
+
+REQUIREMENTS:
+  i. Both robots will start facing each other in the center of the ring
+	ii. The first robot to leave the ring/touch the floor loses.
+	iii. Three minute time limit.
+	
+		1. Cannot add anything to the roboto
+		2. You are not required to compete
+		
+What your robot must do:
+	i. Find and push a coffee can left in the center of the ring.
+	ii. Go around a coffee can left in the center of the ring.
+	
